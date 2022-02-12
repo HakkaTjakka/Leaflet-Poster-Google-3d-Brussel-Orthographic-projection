@@ -15,3 +15,6 @@ https://github.com/HakkaTjakka/PROJECT-CGI-BTE121-LEAFLET
 
 
 ![clipboard_small](https://github.com/HakkaTjakka/Leaflet-Poster-Google-3d-Brussel-Orthographic-projection/blob/main/brussel/Untitled.jpeg)
+
+[![Demo CountPages alpha]()]()
+(Click to play vid)
